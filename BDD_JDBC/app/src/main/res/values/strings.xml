@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BDD_JDBC</string>
+
+    <string-array name="spinner_association">
+        <item>Association X</item>
+        <item>Association Y</item>
+        <item>Association Z</item>
+    </string-array>
+</resources>
